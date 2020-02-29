@@ -23,3 +23,9 @@ The main problems we are trying to analyse here are:
 -Name - DBA , Boroughs
 -Grades, Cuisine,
 -Violation code
+
+
+## Team
+Aswathy Mohan
+Cicy Fan
+Sunidhi Brajesh
