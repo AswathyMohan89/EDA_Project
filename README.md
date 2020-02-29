@@ -26,6 +26,6 @@ The main problems we are trying to analyse here are:
 
 
 ## Team
-Aswathy Mohan
-Cicy Fan
-Sunidhi Brajesh
+* Aswathy Mohan
+* Cicy Fan
+* Sunidhi Brajesh
